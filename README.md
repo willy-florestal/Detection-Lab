@@ -23,3 +23,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 Example below.
 
 *Ref 1: Network Diagram*# Detection-Lab
+<div>
+    <img src="https://i.imgur.com/D0ZVWes.png" />
+
+</div>
